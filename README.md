@@ -1,4 +1,4 @@
-# Woolies-Sales-Data_Dashboard
+# Woolies Sales Data Dashboard
 
 An interactive dashboard developed in Power BI for Woolworths, analyzing sales, profit, and performance across multiple categories, cities, and teams. Includes slicers for dynamic filtering to enable data-driven decision-making.
 
